@@ -1,0 +1,18 @@
+div.slogin-clear{clear: both;}
+.plg-slogin-buttons span {background: url(../../media/socials_sprite.png) no-repeat; height: 50px; width: 50px; display:block;}
+.plg-slogin-buttons a, .plg-slogin-buttons a:hover {border:1px solid #c0c0c0; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; text-decoration:none; float: left;}
+.plg-slogin-buttons a {display: block; width: 49px; padding:5px 10px 5px 10px; margin:5px 5px 0 0;}
+.plg-slogin-buttons a:hover {background:#f4f3f2;}
+.plg-slogin-buttons .googleslogin {background-position: 0 -473px;}
+.plg-slogin-buttons .odnoklassnikislogin {background-position: -51px -473px;}
+.plg-slogin-buttons .vkontakteslogin {background-position: 0 -525px;}
+.plg-slogin-buttons .facebookslogin {background-position: -51px -525px;}
+.plg-slogin-buttons .mailslogin {background-position: 0 -577px;}
+.plg-slogin-buttons .twitterslogin {background-position: -51px -577px;}
+.plg-slogin-buttons .yandexslogin {background-position: 0px -629px;}
+.plg-slogin-buttons .linkedinslogin {background-position: -51px -629px;}
+.plg-slogin-buttons .liveslogin {background-position: -0px -681px;}
+.plg-slogin-buttons .uloginslogin { background-position: -51px -681px; }
+.plg-slogin-buttons .yahooslogin { background-position: -51px -733px; }
+.plg-slogin-buttons .wordpressslogin { background-position: -0px -785px; }
+.plg-slogin-buttons .instagramslogin { background-position: -51px -785px; }
